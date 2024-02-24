@@ -1,3 +1,6 @@
 [submodule "izrada-web-stranice-web-shop-JosipSudar"]
 	path = izrada-web-stranice-web-shop-JosipSudar
 	url = https://github.com/JosipSudar/izrada-web-stranice-web-shop-JosipSudar.git
+[submodule "portfolio"]
+	path = portfolio
+	url = https://github.com/JosipSudar/portfolio.git
